@@ -1,5 +1,9 @@
 # Python Study Notes
 
+## General Random Notes
+* Dictionary keys must be Hashable (immutable)
+  * I.e. list objects cannot be a dictionary key
+
 ## References and Guides
 [Best Practices and Idioms](best_practices.md)
 
