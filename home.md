@@ -1,7 +1,7 @@
 # Python Study Notes
 
 ## General Random Notes
-* Dictionary keys must be Hashable (immutable)
+* Dictionary keys must be Hashable (immutable) and unique.
   * I.e. list objects cannot be a dictionary key
 
 ## References and Guides
@@ -9,3 +9,4 @@
 
 ## Common Methods
 [Lists](list_methods.md)
+[Dictionaries](dict_methods.md)
